@@ -10,9 +10,9 @@
 ## メイン画面
 ![メイン画面](./image/main.png)
 
-♯# URL
+## URL
 http://webnakamura.php.xdomain.jp/MessageBoard.php
 
-♯♯ 使用技術
+## 使用技術
 PHP、FileZilla、Xfree
 
