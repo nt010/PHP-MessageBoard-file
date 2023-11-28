@@ -8,7 +8,7 @@
 登録、削除、編集の機能があります。
 
 ## メイン画面
-![メイン画面](./image/main.png)
+![メイン画面](./main.png)
 
 ## URL
 http://webnakamura.php.xdomain.jp/MessageBoard.php
